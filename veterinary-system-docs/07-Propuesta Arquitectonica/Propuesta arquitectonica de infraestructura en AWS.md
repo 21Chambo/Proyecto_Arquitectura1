@@ -56,7 +56,7 @@ El usuario accede al sistema mediante la URL publica de CloudFront:
 
 CloudFront funciona como el punto de entrada principal de la aplicacion. Para las rutas del frontend, CloudFront entrega los archivos estaticos almacenados en el bucket S3:
 
-`veterinary-system-portal-robayo-20260520`
+`veterinary-system-portal-chambo-20260520`
 
 Para las rutas de backend, se configuro un comportamiento especifico en CloudFront con el patron:
 
